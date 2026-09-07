@@ -1,0 +1,6 @@
+interface:
+  display_name: "Maintainable Code"
+  short_description: "Readable code, scoped changes, and meaningful verification"
+  default_prompt: "Use $maintainable-code to implement this change with readable structure, proportionate abstractions, and behavior-based verification."
+policy:
+  allow_implicit_invocation: true
